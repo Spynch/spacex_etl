@@ -77,3 +77,6 @@ flowchart TD
     H --> I[(ClickHouse DM)]
     I --> J[Metabase]
 ```
+## Дашборд Metabase
+<img width="447" height="665" alt="image" src="https://github.com/user-attachments/assets/d72fe0be-3cc1-43ec-8d53-5915a99dd6a4" />
+
